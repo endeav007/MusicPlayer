@@ -1,0 +1,13 @@
+
+.player{
+    align-items: center;
+}
+#playpause-button button{
+
+    
+    background-color: greenyellow;
+    text-align: center;
+    margin: 50px 100px;
+    width: 50px;
+
+}
